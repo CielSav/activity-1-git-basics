@@ -1,0 +1,12 @@
+Git Basics Practice
+
+Student: Elaisa Mae G. Lagrimas
+Date: October 23, 2026
+
+Commands:
+git init
+git status
+git add
+git commit
+git push
+git pull
